@@ -13,9 +13,8 @@ Open OBD-II (to USB) adapter.
 
 ### Hardware
 
-- MCU: EFM32? LPC1500?
-- CAN Transceiver: TCAN4551 (w/ possibility to upgrade to TCAN4550 if needed)
-- J1850 Transceiver: Drive via MCU directly (planned)
+- MCU: SAME51
+- CAN transceiver: MCP2561
 
 ### Software
 
