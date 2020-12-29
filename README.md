@@ -26,7 +26,7 @@ Open OBD-II (to USB) adapter.
 ### Hardware
 
 - MCU: SAME51
-- CAN transceiver: MCP2561
+- CAN transceiver: MCP2542
 - K-line transceiver: TLIN1027
 
 ### Software
